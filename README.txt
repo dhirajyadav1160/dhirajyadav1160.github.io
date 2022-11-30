@@ -7,7 +7,6 @@ styles\           - SCSS source files for stylesheets CSS. Available in Purchase
 favicon.ico       - Favicon placeholder provided for the template.
 index.html        - Main HTML page to open the template in browser.
 *.html            - Additional HTML pages (if any).
-LICENSE-*.txt     - License file as per your downloaded variant.
 
 How to Edit the template
 ------------------------
@@ -33,12 +32,4 @@ You can change images inside the images\ folder.
 Make sure to name the file same as the original file.
 If you wish to change the name of the image file then you must
 also make corresponding change in the HTML file which refer to that image.
-
-How to use the template
------------------------
-Upload the contents to your webserver.
-index.html must be in the main (root) folder of your webserver.
-Do not change the name of the template folders or files unless you know
-what you are doing and are changing the names in HTML files too.
-For webhosting, you can go with hosting server for easy FTP file uploads.
 
